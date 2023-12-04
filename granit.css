@@ -1,0 +1,23 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    direction: rtl;
+    color: white;
+    background-color: #3f4add;
+    
+  }
+
+  #testimonials {
+    background-color: #3f4add;
+  }
+  
+  .testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .testimonial-image {
+    width: 50%;
+    /*border-radius: 100%;*/
+    margin: 20px;
+  }
